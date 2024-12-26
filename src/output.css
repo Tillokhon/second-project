@@ -598,6 +598,10 @@ video {
   margin-bottom: 80px;
 }
 
+.mt-\[30px\] {
+  margin-top: 30px;
+}
+
 .flex {
   display: flex;
 }
@@ -608,6 +612,14 @@ video {
 
 .w-\[90\%\] {
   width: 90%;
+}
+
+.w-\[80\%\] {
+  width: 80%;
+}
+
+.flex-row {
+  flex-direction: row;
 }
 
 .flex-col {
@@ -658,6 +670,10 @@ video {
   font-size: 60px;
 }
 
+.text-\[50px\] {
+  font-size: 50px;
+}
+
 .text-gray-500 {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity, 1));
@@ -668,6 +684,14 @@ video {
 }
 
 @media (min-width: 992px) {
+  .xl\:ml-\[\] {
+    margin-left: ;
+  }
+
+  .xl\:ml-\[120px\] {
+    margin-left: 120px;
+  }
+
   .xl\:flex {
     display: flex;
   }
