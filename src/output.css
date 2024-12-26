@@ -646,12 +646,20 @@ video {
   width: 0%;
 }
 
+.w-\[\] {
+  width: ;
+}
+
 .flex-row {
   flex-direction: row;
 }
 
 .flex-col {
   flex-direction: column;
+}
+
+.flex-col-reverse {
+  flex-direction: column-reverse;
 }
 
 .items-center {
